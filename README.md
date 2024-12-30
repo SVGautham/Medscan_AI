@@ -8,6 +8,11 @@ This project focuses on developing and optimizing a deep learning model for eye 
 - **Data Preprocessing**: Preprocessed and augmented **5,000+ medical images** using Python libraries like OpenCV and TensorFlow. This step helped improve model robustness and reduced image noise by **30%**.
 - **Transfer Learning**: Applied transfer learning and feature extraction techniques, resulting in a **25% improvement** in model performance and inference time.
 
+## Frontend View
+![Screenshot 2024-12-23 202144](https://github.com/user-attachments/assets/01f302f4-52f1-4a61-88cc-c86cd7e05757)
+![Screenshot 2024-12-23 202256](https://github.com/user-attachments/assets/0ce3bbe1-ed34-49c5-9be2-b325468c8eaf)
+![Screenshot 2024-12-23 202309](https://github.com/user-attachments/assets/1d8f8a7a-2dd9-4934-bb1c-49bbcb697652)
+
 ## Requirements
 
 Before running the project, ensure you have the following libraries installed. You can install them using the `requirements.txt` file provided.
@@ -34,3 +39,4 @@ python task2.py
 pip install streamlit
 streamlit run appp.py
 to get the final frontend
+
